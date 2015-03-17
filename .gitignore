@@ -6,3 +6,6 @@ obj/*
 tmp/*
 dump/*
 *.hxproj
+.idea/
+*.iml
+swc/
